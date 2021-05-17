@@ -94,6 +94,7 @@
                             <classifier>spring-boot</classifier>
                             <mainClass>at.researchstudio.sat.merkmalserviceifc2json.MerkmalserviceIfc2jsonApplication</mainClass>
                             <finalName>ifc2json</finalName>
+                            <executable>true</executable>
                         </configuration>
                     </execution>
                 </executions>

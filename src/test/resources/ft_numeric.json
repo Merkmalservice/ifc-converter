@@ -1,0 +1,18 @@
+[
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Angegebene Beleuchtungslast"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Angegebene Versorgungsleistung"
+  }
+]

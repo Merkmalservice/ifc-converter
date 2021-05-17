@@ -1,0 +1,26 @@
+[
+  {
+    "featureType": {
+      "type": "ENUMERATION",
+      "options": [
+        {
+          "value": {
+            "value": "This is my Value",
+            "description": "This the values description"
+          },
+          "description": "This the options description"
+        },
+        {
+          "value": {
+            "value": "This is second my Value",
+            "description": "This the second values description"
+          },
+          "description": "This the second options description"
+        }
+      ],
+      "description": "A default description",
+      "allowMultiple": true
+    },
+    "name": "Angegebene Beleuchtungslast"
+  }
+]

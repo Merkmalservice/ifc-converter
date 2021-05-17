@@ -1,0 +1,2520 @@
+[
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Nicht verknüpfte Höhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Length",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Länge"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Angegebene Beleuchtungslast"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Angegebene Versorgungsleistung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Tatsächliche Beleuchtungslast"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Tatsächliche Versorgungsleistung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Umfang"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Versatz oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Radius",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Radius"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Lichte Höhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Diameter",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Durchmesser"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dki Bewehrung Stab kg pro m"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Versatz von Verbindung (oben)"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Versatz unten"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dki Schalhöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Tiefe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Breite"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe unten"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Dicke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Standarddicke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Versatz Oberkante"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Schwelle/Brüstung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dab_Leibungstiefe_aussen"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dab_Leibungstiefe_innen"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Sturzhöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Rohbauhöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Fläche"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Fußbodenaufbau"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Zargenbreite"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Rohbaubreite"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dki Bewehrung Stab kg pro m3"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dki Sauberkeitsschicht-Überstand in m"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe oben Kern"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe unten Kern"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe Vermessung oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe Vermessung unten"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Querschnittdrehung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Length",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Basisverlängerung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Length",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Obere Verlängerung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Versatz"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Auftrittsbreite"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Fußbodenaufbau Antritt"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Fußbodenaufbau Austritt"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Schrittmaßregel"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Geschoßhöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Steigungshöhe Geschoß"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Steigungshöhe sichtbar"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Deckenstärke Antritt"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Breite Fensterbank aussen"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Breite Fensterbank innen"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Einbautiefe von aussen"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "WDVS Stärke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Sturzhöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Einbautiefe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Leibungstiefe innen"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Rahmenbreite Flügel"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Rahmenbreite oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Rahmenbreite seitlich"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Rahmenbreite unten"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Rahmentiefe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "WDVS Anschlagbreite links"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "WDVS Anschlagbreite oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "WDVS Anschlagbreite rechts"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "WDVS Anschlagbreite unten"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "AL Höhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Breite Feld links"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Breite Feld rechts"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Glas OK"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Glas UK"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhenversatz von Ebene"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Ebenenversatz"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Erhebung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Kernstärke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Kosten"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5D Kosten je m2 Fassade"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Az_imprGKPl"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Fenster Einbautiefe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Az UA-Profil in Stk"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Gesamthöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Höhe in m"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dki Abstand Wandabschalung in m"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dki Neigung in Prozent"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Length",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Länge Blechstreifen in m"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Length",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Länge Dreischichtplatten in m"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Unterstellungshöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dki lichter Querschnitt in m2"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Personenzahl"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Tatsächliche Beleuchtungslast pro Fläche"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Tatsächliche Versorgungsleistung pro Fläche"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Basisversatz"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe für Berechnung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Fenster Einbautiefe in m"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Attikazargen Höhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Ansicht"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "PitchAngle"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dki Bewehrung Matte kg pro m3"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Fundamentstärke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Length",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Verlängerungsabstand oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Length",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Verlängerungsabstand unten"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Slope"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "Fläche"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "Fläche pro Person"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "Rohbauöffnung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "Höhe oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "5d Glasfläche Absturzsich.Feld links"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "5d Glasfläche Absturzsich.Feld rechts"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "5d Glasfläche Feld links fix"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "5d Glasfläche Feld links Flügel"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "5d Glasfläche Feld rechts fix"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "5d Glasfläche Feld rechts Flügel"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "5d Öffnungsfläche Rohbau"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "Nicht verknüpfte Höhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "Länge"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "Höhe unten"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Area",
+      "unit": "http://qudt.org/vocab/unit/M2"
+    },
+    "name": "Bruttooberfläche"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Geschoss"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dqm Bewehrung Stab kg pro m3"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dqm Qualitätsprüfung"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dqm Tragwerk"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "fertig (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Last Updated (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "LG07_Fstg. Beton in % (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "LG07_Fstg. Bewehrung in % (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "LG07_Fstg. Schalung in % (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Reference"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dqm Mauerwerkstyp"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dki Mauerwerkstyp"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dki Leistungsgruppe nach LBH"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "cpiComponentType"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "cpiFitMatchKey"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Typname"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Familienname"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Ebene"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Deckschicht"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Putz MWK Wand"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Putz STB Decke"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Putz STB Wand"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Raumtyp definiert"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Spachtelung FT Beton"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Spachtelung Ortbeton"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Spachtelung Putz"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dki Expositionsklasse"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "OmniClass-Nummer"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "OmniClass-Titel"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dqm Schalhöhe"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Element-ID"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dqm Bewehrung Matte kg pro m3"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Zuordnung"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Leistungsmeldung_KW35 (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dsf Beplankungstyp"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dsf Feuerwiderstandsklasse"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dsf Profiltyp"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dsf Schalldämmmaß"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dsf-IW-Bauteiltyp"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Top Nr."
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Kennzeichen"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Analytische Konstruktion"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Typenmarkierung"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Gewerkezug (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Brandschutz Sturz"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "OK RFB"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "OK FFB"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dqm lichter Querschnitt in m2"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Basisbauteil"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dqm Typ"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Einbautyp"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dab_LG39_Reduzierter Ständerabstand"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dab_LG39_Gleitender Deckenanschluss"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Baugruppenbeschreibung"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Baugruppenkennzeichen"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Feuerwiderstandsklasse"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Modell"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Typenkommentare"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "FireRating"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Geschoß"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dqm Fugenbandbreite"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Arbeitsebene"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dki Fugenbandbreite"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Gewerkezug TB + E (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Attachements (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Dämmstoffrondelle"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Los"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Fertig (BIM 360)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Ausführungsplanung"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Bauherr"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Entwurfsplanung"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Generalunternehmer"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Kostenstelle"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Planverfasser (Firma)"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Projektmanagement"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5dki Contentversion"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Auftraggeber"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "Projektausgabedatum"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "SharedCoordinates"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Schallschutz"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Wärmeschutz"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Raumbegrenzung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Verschieben mit Raster"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dab_LG10_Abdecken Fenster"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dab_LG10_Az. Kalkzement IP zweilagig"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dab_LG10_Fensteranputzleiste"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Abzug Sauberkeitsschicht BoPla"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "cpiDisableCutOffs"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "cpiDisableExport"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "cpiDisableOpenings"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "aufgesetzte Treppe"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Brandschutz Sturz sichtbar"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Oberlicht"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Absturzsicherung Feld links"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Absturzsicherung Feld rechts"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Feld links fix"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Feld rechts fix"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki armiert"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az pulverbeschichtet"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az System.Drehtüre"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Erschw.unverputzte Bestandsfl."
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Erschw.verputzte Bestandsfl."
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Fungizid/Algizid"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Gaupe, Attika"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az gekrümmte Flächen"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az geneigt"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Kleben Sockelplatte auf bituminöser Abdichtung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Sonderfarben"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Vertiefungsfelder 2cm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az XPS Sockelplatte 0,25 18cm+Endbesch."
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Entfall Dübelung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Flächendübel n.W.AN"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Abdichtung Chlorideintrag"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Abdichtung drückendes Wasser"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Abdichtung FBV Dichtungsbahn"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Abdichtung Noppenbahn"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Abdichtung Vertikaldränmatte"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki FT Aufdoppeln"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki FT Eckausbildung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki FT farbiger Beton"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki FT farbiger Zuschlag"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki FT Graffitischutz"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki FT Hydrophobierung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki FT Sandstrahlen"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki FT Weisszement"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Fensterbank innen-01"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Fensterbank innen-02"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Fensterbank innen-03"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Fensterbank innen-04"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Fensterbank innen-05"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Sonstiges-01"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Sonstiges-02"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Sonstiges-03"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Sonstiges-04"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Sonstiges-05"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-FE-Sturz"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Anteil Oberlicht"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Aquapanel-1"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Aquapanel-2"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Dämmstoffmehrstärke 20mm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Fassadenschwert-Typ-01"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Fassadenschwert-Typ-02"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-GKB-Piano-1"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-GKB-Piano-2"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-GKF-1"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-GKF-2"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Gleit Deckenanschluss"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Hydrophobierung-1"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Hydrophobierung-2"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Links"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Q3-beidseitig"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Q3-einseitig"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Q4-beidseitig"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Q4-einseitig"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Rechts"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-VS-oben"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Zulage XXX-01-lfm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Zulage XXX-02-lfm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Zulage XXX-03-lfm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Zulage XXX-04-lfm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GK-Zulage XXX-05-lfm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GWBP-Gleit Deckenanschluss"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GWBP-Hydrophobierung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GWBP-Hydro-Sockel"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-GWBP-wasserabw. Wandsohle"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-KT-raumhohe Anlage"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-Raum-Sonderoberfläche-1"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-TW-Fassadenschwert-Typ-01"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-TW-Fassadenschwert-Typ-02"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-TW-Gleit-Deckenanschluss"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-TW-Oberfläche-Typ-01"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-TW-Oberfläche-Typ-02"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-IW-WC-raumhohe Anlage"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-TGA-BW-Front"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-TGA-BW-Links"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dsf-TGA-BW-Rechts"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dab_LG39_Az. Anarbeiten offene Untersicht"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dab_LG39_Az. Blechdicke 0,7mm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dab_LG39_Az f.Trockenputz verdübeln"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Anarbeiten offene Untersicht"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Blechdicke 0,7mm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az f.Trockenputz verdübeln"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Az Schalung gebogen"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Flächendübel"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki gekrümmt"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki geneigt"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki MW Anschluss Decke F90"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki MW horizontale Abdichtung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki MW mechanische Halterung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki MW Ringgurt"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dtb Element verloren"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dtb abbrechen und entsorgen"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Putz STB Deckenrost"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Schacht"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Fliesen Az Diagonalverlegung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Fliesen Az Fuge färbig b.7mm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Fliesen Az Fuge säurebeständig b.7mm"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5d Abzug Deckschicht"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Gebäudegeschoss"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "IsExternal"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Für Körper"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Rollierung"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dqm Warnung ignorieren"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Oberkante ist fixiert."
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Unterkante ist fixiert"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Berechnungsmodell aktivieren"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "ExtendToStructure"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "LoadBearing"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Mittelpunkt sichtbar"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Filter Tragend / Nichttragend"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "Verschieben mit umliegenden Elementen"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Sichtbeton SB3"
+  },
+  {
+    "featureType": {
+      "type": "BOOLEAN"
+    },
+    "name": "5dki Sichtbeton SB4"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Volume",
+      "unit": "http://qudt.org/vocab/unit/M3"
+    },
+    "name": "Volumen"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Volume",
+      "unit": "http://qudt.org/vocab/unit/M3"
+    },
+    "name": "Länge"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Volume",
+      "unit": "http://qudt.org/vocab/unit/M3"
+    },
+    "name": "Bruttovolumen"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Breite"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Length",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Länge"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Nicht verknüpfte Höhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Lichte Höhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Diameter",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Durchmesser"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Radius",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Radius"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Tiefe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5dki Schalhöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Dicke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe unten"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Rohbaubreite"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Sturzhöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Rohbauhöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Standarddicke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Kernstärke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Fundamentstärke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe oben Kern"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Höhe Vermessung oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Deckenstärke Antritt"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Deckenstärke Austritt"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Geschoßhöhe"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Laufbreite"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Steigungshöhe Geschoß"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Height",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Steigungshöhe sichtbar"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Thickness",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Wandstärke"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Width",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "AL Breite"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Az UA-Profil in Stk"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Versatz oben"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Schwelle/Brüstung"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Depth",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "5d Fenster Einbautiefe in m"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Fläche"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Versatz Oberkante"
+  },
+  {
+    "featureType": {
+      "type": "NUMERIC",
+      "quantityKind": "http://qudt.org/vocab/quantitykind/Dimensionless",
+      "unit": "http://qudt.org/vocab/unit/M"
+    },
+    "name": "Erhebung"
+  }
+]

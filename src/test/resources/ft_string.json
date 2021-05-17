@@ -1,0 +1,14 @@
+[
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "5d Geschoss"
+  },
+  {
+    "featureType": {
+      "type": "STRING"
+    },
+    "name": "6d Geschoss"
+  }
+]

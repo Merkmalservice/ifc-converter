@@ -1,0 +1,14 @@
+[
+  {
+    "featureType": {
+      "type": "REFERENCE"
+    },
+    "name": "Reference text"
+  },
+  {
+    "featureType": {
+      "type": "REFERENCE"
+    },
+    "name": "Reference text"
+  }
+]

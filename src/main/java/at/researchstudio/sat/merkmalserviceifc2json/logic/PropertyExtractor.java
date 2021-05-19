@@ -1,13 +1,13 @@
 package at.researchstudio.sat.merkmalserviceifc2json.logic;
 
+import at.researchstudio.sat.merkmalservice.model.BooleanFeature;
+import at.researchstudio.sat.merkmalservice.model.Feature;
+import at.researchstudio.sat.merkmalservice.model.NumericFeature;
+import at.researchstudio.sat.merkmalservice.model.StringFeature;
 import at.researchstudio.sat.merkmalserviceifc2json.model.ifc.IfcProperty;
 import at.researchstudio.sat.merkmalserviceifc2json.model.ifc.IfcUnit;
 import at.researchstudio.sat.merkmalserviceifc2json.model.ifc.vocab.IfcPropertyType;
 import at.researchstudio.sat.merkmalserviceifc2json.model.ifc.vocab.IfcUnitType;
-import at.researchstudio.sat.merkmalserviceifc2json.outsource.model.mms.BooleanFeature;
-import at.researchstudio.sat.merkmalserviceifc2json.outsource.model.mms.Feature;
-import at.researchstudio.sat.merkmalserviceifc2json.outsource.model.mms.NumericFeature;
-import at.researchstudio.sat.merkmalserviceifc2json.outsource.model.mms.StringFeature;
 import at.researchstudio.sat.merkmalserviceifc2json.utils.Utils;
 import at.researchstudio.sat.merkmalserviceifc2json.vocab.qudt.QudtQuantityKind;
 import at.researchstudio.sat.merkmalserviceifc2json.vocab.qudt.QudtUnit;
@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import static at.researchstudio.sat.merkmalserviceifc2json.outsource.utils.Utils.writeToJson;
+import static at.researchstudio.sat.merkmalservice.utils.Utils.writeToJson;
 
 public class PropertyExtractor {
     public static void parseIfcFilesToJsonFeatures(boolean keepTempFiles, String outputFileName, List<File> ifcFiles) {

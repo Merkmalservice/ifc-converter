@@ -14,10 +14,29 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>merkmalservice-ifc2json</name>
     <description>Tool to parse ifc files to mms-features as json</description>
-
     <properties>
         <java.version>11</java.version>
     </properties>
+
+    <profiles>
+        <profile>
+            <id>github</id>
+            <repositories>
+                <repository>
+                    <id>github</id>
+                    <name>Merkmalservice Utils</name>
+                    <url>https://maven.pkg.github.com/Merkmalservice/utils</url>
+                    <releases>
+                        <enabled>true</enabled>
+                    </releases>
+                    <snapshots>
+                        <enabled>true</enabled>
+                    </snapshots>
+                </repository>
+            </repositories>
+        </profile>
+    </profiles>
+
 
     <dependencies>
         <dependency>

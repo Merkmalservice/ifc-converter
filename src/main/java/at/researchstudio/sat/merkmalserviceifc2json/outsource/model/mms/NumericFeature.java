@@ -1,4 +1,4 @@
-package at.researchstudio.sat.merkmalserviceifc2json.model.mms;
+package at.researchstudio.sat.merkmalserviceifc2json.outsource.model.mms;
 
 public class NumericFeature extends Feature {
     private final FeatureType featureType;

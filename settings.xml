@@ -33,11 +33,4 @@
         </profile>
     </profiles>
 
-    <servers>
-        <server>
-            <id>github</id>
-            <username>test</username>
-            <password>test</password>
-        </server>
-    </servers>
 </settings>

@@ -9,7 +9,6 @@
         <activeProfile>github</activeProfile>
     </activeProfiles>
 
-
     <profiles>
         <profile>
             <id>github</id>
@@ -32,5 +31,4 @@
             </repositories>
         </profile>
     </profiles>
-
 </settings>

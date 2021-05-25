@@ -23,6 +23,9 @@ jobs:
     
     - name: Build with Maven
       run: mvn -s settings.xml -B clean install spring-boot:repackage --file pom.xml
+      env:
+          GITHUB_USER_REF: ${{ secrets.GH_PACKAGE_REPO_USERNAME }}
+          GITHUB_TOKEN_REF: ${{ secrets.GH_PACKAGE_REPO_PASSWORD }}
     - name: 'Rename File'
       run: mv target/ifc2json-spring-boot.jar target/ifc2json.jar
     - name: 'Upload Artifact'

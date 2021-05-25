@@ -17,27 +17,6 @@
     <properties>
         <java.version>11</java.version>
     </properties>
-
-    <profiles>
-        <profile>
-            <id>github</id>
-            <repositories>
-                <repository>
-                    <id>github</id>
-                    <name>Merkmalservice Utils</name>
-                    <url>https://maven.pkg.github.com/Merkmalservice/utils</url>
-                    <releases>
-                        <enabled>true</enabled>
-                    </releases>
-                    <snapshots>
-                        <enabled>true</enabled>
-                    </snapshots>
-                </repository>
-            </repositories>
-        </profile>
-    </profiles>
-
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

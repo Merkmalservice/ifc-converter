@@ -20,12 +20,14 @@ jobs:
       with:
         java-version: '11'
         distribution: 'adopt'
+        server-username: GITHUB_USER_REF  # env variable name for username
+        server-password: GITHUB_TOKEN_REF # env variable name for GitHub Personal Access Token
     
     - name: Build with Maven
       run: mvn -s settings.xml -B clean install spring-boot:repackage --file pom.xml
       env:
-          GITHUB_USER_REF: ${{ secrets.GH_ORGANIZATION_NAME }}
-          GITHUB_TOKEN_REF: ${{ secrets.GH_ORGANIZATION_PASSWORD }}
+        GITHUB_USER_REF: ${{ secrets.GH_PACKAGE_REPO_USERNAME }}
+        GITHUB_TOKEN_REF: ${{ secrets.GH_PACKAGE_REPO_PASSWORD }}
     - name: 'Rename File'
       run: mv target/ifc2json-spring-boot.jar target/ifc2json.jar
     - name: 'Upload Artifact'
